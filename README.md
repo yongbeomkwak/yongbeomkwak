@@ -2,7 +2,7 @@
 
 ![yongbeomkwak's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongbeomkwak&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongbeomkwak&hide=jupyternotebook,c#)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongbeomkwak&layout=compact&hide=jupyter%20notebook,roff,C%23,MakeFile,CMake,PHP,JAVA,HTML,CSS,C,SCSS,layout)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>Welcom to my page! </br>I'm YongbeomKwak,Mobile Application Developer from 🇰🇷 <p>
 
