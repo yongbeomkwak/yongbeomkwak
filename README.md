@@ -66,7 +66,9 @@
   <img alt="node.js" src ="https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="TS" src ="https://img.shields.io/badge/TS-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white"/>
+  <img alt="FireBase" src ="https://img.shields.io/badge/FireBase-0393DA.svg?&style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
   <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+
     
 </p>
  
