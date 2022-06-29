@@ -1,10 +1,13 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20guys&fontAlign=80&fontAlignY=40&color=gradient)
 
+
+<p>Welcom to my page! <br> I'm YongbeomKwak,Mobile Application Developer from 🇰🇷 <p>
+
 ![yongbeomkwak's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongbeomkwak&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongbeomkwak&layout=compact&hide=jupyter%20notebook,roff,C%23,MakeFile,CMake,PHP,JAVA,HTML,CSS,C,SCSS,layout)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>Welcom to my page! </br>I'm YongbeomKwak,Mobile Application Developer from 🇰🇷 <p>
+
 
 
 
@@ -13,7 +16,7 @@
   
 <h2> History</h2>
 
-<h3> Thing I was majored with 🤣 </h3>
+<h3> Thing I majored with 🤣 </h3>
 <!-- 
 <img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
 -->
