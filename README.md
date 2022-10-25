@@ -81,7 +81,6 @@
   <img alt="IOS" src ="https://img.shields.io/badge/ios-000000.svg?&style=for-the-badge&logo=ios&logoColor=white"/>  
 </p>
   
----
   
   <h2> My apps </h2>
   
