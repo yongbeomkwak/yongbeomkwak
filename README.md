@@ -80,6 +80,33 @@
   <img alt="Swift" src ="https://img.shields.io/badge/swift-F05138.svg?&style=for-the-badge&logo=swift&logoColor=white"/>  
   <img alt="IOS" src ="https://img.shields.io/badge/ios-000000.svg?&style=for-the-badge&logo=ios&logoColor=white"/>  
 </p>
+  
+---
+  
+  <h2> My apps </h2>
+  
+  <p align="center">
+  Waktaverse Music 
+  </p>
+  
+  <p align="center">
+  <img  width="150px" height="150px" src="https://user-images.githubusercontent.com/48616183/197765079-3046f3e8-a998-4c60-b37a-58063a37c4ee.png"/>
+  </p>
+  
+
+  <br>
+  <br>
+  <h3>  Chart & Reviews <h3>
+    
+  <p align="center">
+  <img alt="rank1" width="150px" height="300px" src ="https://user-images.githubusercontent.com/48616183/197765457-2d4cd656-3720-4780-aad5-48acb839c7fe.png"/>  
+  <img alt="rank2" width="150px" height="300px" src ="https://user-images.githubusercontent.com/48616183/197765471-5e22220f-039f-43be-8acb-8c8c4d3e6033.png"/>
+  <img alt="reviews" width="200px" height="300px" src ="https://user-images.githubusercontent.com/48616183/197765482-4ef9056f-00a8-4623-b9d6-7fb0be4ae142.png"/>
+    
+    
+  </p>
+    
+  
 
 
 ---
