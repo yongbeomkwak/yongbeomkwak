@@ -32,21 +32,21 @@
 <br>
   
 ### 🏁 Activity
-- [Apple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/en/) 2nd (2023.03~)
+- [Apple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/en/) 🍎 애플 아카데미 2기 (2023.03~)
 - [WWDC](https://github.com/wwdc/2023) 🏅 WWDC23 Swift Challenge Winner (2023.05.09)
-- [Foscar](https://github.com/young43/ISCC_2021) 2021 KASA 국제 대학생 창작 자동차 경진대회 (FOSCAR) (2022.06 ~ 2022.10)
-- [Rheebros](https://www.rheebros.com/) 리브로스 IT & Network 인턴 (2020.03 ~ 2021.04)
+- [Foscar](https://github.com/young43/ISCC_2021) 🎖️ 2021 KASA 국제 대학생 창작 자동차 경진대회 (FOSCAR) (2022.06 ~ 2022.10)
+- [Rheebros](https://www.rheebros.com/) 🇺🇸 리브로스 IT & Network 인턴 (2020.03 ~ 2021.04)
 - 🥇 2019 제 3회 판교 자율주행모터쇼(2019 PMAS) 자율주행 부분 대상 (KUUVe) (2019.11.12)
-- 🚘 2019 일산 킨텍스 자율주행 부문 대표 전시 (국민대학교 KUUve & 국민대학교 FOSCAR) (2019.11.01) 
+- 🚘 2019 일산 킨텍스 자율주행 부문 대표 전시 (국민대학교 KUUVe & 국민대학교 FOSCAR) (2019.11.01) 
 - 🥉 2019 KASA 국제 대학생 창작 자동차 경진대회 은상(3등) (KUUVe) (2019.04.01 ~ 2019.09.06)
 
 <br>
  
 ###  💎 Released Apps
-1. [Waktamusic](https://wakmusic.xyz/) 왁타버스 iOS 앱
+1. [Waktamusic](https://wakmusic.xyz/) 🎵 왁타버스 iOS 앱
   - 무료 앱 음악부문 전체 1위
   - 무료 앱 인기차트 전체 2위
-2. [RaniPaper](https://apps.apple.com/kr/app/id1660706595) 비챤님 생일 조공 다이어리 앱
+2. [RaniPaper](https://apps.apple.com/kr/app/id1660706595) 📒 비챤님 생일 조공 다이어리 앱
   - 라이프스타일 부문 전체 17위
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyongbeomkwak&count_bg=%234884E1&title_bg=%2323C45D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
