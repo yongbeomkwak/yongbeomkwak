@@ -34,7 +34,7 @@
 ### 🏁 Activity
 - [Apple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/en/) 🍎 애플 아카데미 2기 (2023.03~)
 - [WWDC](https://github.com/wwdc/2023) 🏅 WWDC23 Swift Challenge Winner (2023.05.09)
-- [Foscar](https://github.com/young43/ISCC_2021) 🎖️ 2021 KASA 국제 대학생 창작 자동차 경진대회 (FOSCAR) (2022.06 ~ 2022.10)
+- [FOSCAR](https://github.com/young43/ISCC_2021) 🎖️ 2021 KASA 국제 대학생 창작 자동차 경진대회 (FOSCAR) (2022.06 ~ 2022.10)
 - [Rheebros](https://www.rheebros.com/) 🇺🇸 리브로스 IT & Network 인턴 (2020.03 ~ 2021.04)
 - 🥇 2019 제 3회 판교 자율주행모터쇼(2019 PMAS) 자율주행 부분 대상 (KUUVe) (2019.11.12)
 - 🚘 2019 일산 킨텍스 자율주행 부문 대표 전시 (국민대학교 KUUVe & 국민대학교 FOSCAR) (2019.11.01) 
