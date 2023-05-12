@@ -9,10 +9,10 @@
 
 <img alt="Swift" src ="https://img.shields.io/badge/swift-F05138.svg?&style=for-the-badge&logo=swift&logoColor=white"/>  
 <img alt="iOS" src ="https://img.shields.io/badge/ios-000000.svg?&style=for-the-badge&logo=ios&logoColor=white"/>
+<br>
+<img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white"/><img alt="FireBase" src ="https://img.shields.io/badge/FireBase-0393DA.svg?&style=for-the-badge&logo=firebase&logoColor=FFCA28"/><img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>   
 <br>  
 <img alt="HTML" src ="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS" src ="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img alt="JS" src ="https://img.shields.io/badge/JS-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/><img alt="node.js" src ="https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<br>
-<img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white"/><img alt="FireBase" src ="https://img.shields.io/badge/FireBase-0393DA.svg?&style=for-the-badge&logo=firebase&logoColor=FFCA28"/><img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <br>
 <img alt="TS" src ="https://img.shields.io/badge/TS-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="Nest" src ="https://img.shields.io/badge/Nest.js-000000.svg?&style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
@@ -21,9 +21,6 @@
   
 </div>
 </details>
-
-<br>
-  
 <details>
 <summary> 🤝 TeamWork  </summary>
 <div markdown="2">       
@@ -32,98 +29,24 @@
 </div>
 </details>
 
-
-
-
-
-
-
+<br>
   
-
-  
-<h2> History</h2>
-
-<h3> What I majored with 🤣 </h3>
-<!-- 
-<img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
--->
-
-<p align="center">
-  
-</p>
+### 🏁 Activity
+- [Apple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/en/) 2nd (2023.03~)
+- [WWDC](https://github.com/wwdc/2023) 🏅 WWDC23 Swift Challenge Winner (2023.05.09)
+- [Foscar](https://github.com/young43/ISCC_2021) 2021 KASA 국제 대학생 창작 자동차 경진대회 (FOSCAR) (2022.06 ~ 2022.10)
+- [Rheebros](https://www.rheebros.com/) 리브로스 IT & Network 인턴 (2020.03 ~ 2021.04)
+- 🥇 2019 제 3회 판교 자율주행모터쇼(2019 PMAS) 자율주행 부분 대상 (KUUVe) (2019.11.12)
+- 🚘 2019 일산 킨텍스 자율주행 부문 대표 전시 (국민대학교 KUUve & 국민대학교 FOSCAR) (2019.11.01) 
+- 🥉 2019 KASA 국제 대학생 창작 자동차 경진대회 은상(3등) (KUUVe) (2019.04.01 ~ 2019.09.06)
 
 <br>
-
-<h3>  🏆 Prize </h3>
-
-<table width="100%">
-  <thead align="center">
-    <tr border: none;>
-          <td><b>Year</b></td>
-          <td><b>Name</b></td>
-          <td><b>Rank</b></td>
-          <td><b>Picture</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-          <td><b>2019</b></td>
-          <td><b>KASA</b></td>
-          <td><b>1st</b></td>
-          <td><img  width="100px" height="100px" src="https://user-images.githubusercontent.com/48616183/176429956-e61029cd-2b41-4473-ba09-3f59f213aece.jpeg"/></td>
-     </tr>
-    <tr>
-          <td><b>2019</b></td>
-          <td><b>PAMS</b></td>
-          <td><b>3rd</b></td>
-          <td><img  width="100px" height="100px" src="https://user-images.githubusercontent.com/48616183/176432027-16ddb5bd-dda5-4d4a-978d-ecbe08a95c10.jpeg"/></td>
-     </tr>
-  </tbody>
-</table>
-
-<br>
-
-<h3> Thing I was learned in internship with Rheebros <h3>
-  <p align="center">
-
-
-    
-</p>
  
-<br>
-  
-<h3>Current Learning</h3>
+###  💎 Released Apps
+1. [Waktamusic](https://wakmusic.xyz/) 왁타버스 iOS 앱
+  - 무료 앱 음악부문 전체 1위
+  - 무료 앱 인기차트 전체 2위
+2. [RaniPaper](https://apps.apple.com/kr/app/id1660706595)
+  - 라이프스타일 부문 전체 17위
 
-<p align="center">
-  
-</p>
-  
-  
-  <h2> My apps </h2>
-  
-  <p align="center">
-  Waktaverse Music 
-  </p>
-  
-  <p align="center">
-  <img  width="150px" height="150px" src="https://user-images.githubusercontent.com/48616183/197765079-3046f3e8-a998-4c60-b37a-58063a37c4ee.png"/>
-  </p>
-  
-
-  <br>
-  <br>
-  <h3>  Chart & Reviews <h3>
-    
-  <p align="center">
-  <img alt="rank1" width="150px" height="300px" src ="https://user-images.githubusercontent.com/48616183/197765457-2d4cd656-3720-4780-aad5-48acb839c7fe.png"/>  
-  <img alt="rank2" width="150px" height="300px" src ="https://user-images.githubusercontent.com/48616183/197765471-5e22220f-039f-43be-8acb-8c8c4d3e6033.png"/>
-  <img alt="reviews" width="200px" height="300px" src ="https://user-images.githubusercontent.com/48616183/197765482-4ef9056f-00a8-4623-b9d6-7fb0be4ae142.png"/>
-    
-    
-  </p>
-    
-  
-
-
----
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyongbeomkwak&count_bg=%234884E1&title_bg=%2323C45D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
