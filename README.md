@@ -44,9 +44,9 @@
  
 ###  💎 Released Apps
 1. [Waktamusic](https://wakmusic.xyz/) 🎵 왁타버스 iOS 앱
-  - 무료 앱 음악부문 전체 1위
-  - 무료 앱 인기차트 전체 2위
+  - 🥇 무료 앱 음악부문 전체 1위
+  - 🏅 무료 앱 인기차트 전체 2위
 2. [RaniPaper](https://apps.apple.com/kr/app/id1660706595) 📒 비챤님 생일 조공 다이어리 앱
-  - 라이프스타일 부문 전체 17위
+  - 😃 라이프스타일 부문 전체 17위
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyongbeomkwak&count_bg=%234884E1&title_bg=%2323C45D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
