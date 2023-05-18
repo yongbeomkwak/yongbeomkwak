@@ -58,6 +58,11 @@
   <li>😃 라이프스타일 부문 전체 17위</li>
 </ul>
   
+   <li> <p> <img width = "25" src="https://github.com/yongbeomkwak/yongbeomkwak/assets/48616183/40c07c39-7a53-4446-8b4c-7c3311562d8f" align="center"> <a href = "https://apps.apple.com/kr/app/id6449212890"> Timerago </a> </p> </li>
+  <ul>
+  <li>⏰ 준비 루틴을 도와주는 핸즈프리 시간 리마인더</li>
+</ul>
+  
 </ol>
  
 
