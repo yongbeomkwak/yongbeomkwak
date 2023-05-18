@@ -45,20 +45,34 @@
 ###  💎 Released Apps
 
 <ol>
-  <li> <p> <img width = "25" src="https://user-images.githubusercontent.com/60254939/232179100-bd7243d1-35f2-432b-a316-c6d41d8bf3bc.png" align="center"> <a href = "https://wakmusic.xyz/">  Waktamusic </a> </p> </li>
+  <li>
+    <p> 
+      <img width = "25" src="https://user-images.githubusercontent.com/60254939/232179100-bd7243d1-35f2-432b-a316-c6d41d8bf3bc.png" align="center"> 
+        <a href = "https://wakmusic.xyz/">  Waktamusic </a> 
+    </p> 
+  </li>
+  
   <ul>
   <li>🎵 왁타버스 음악 iOS 앱</li>
   <li>🥇 무료 앱 음악부문 전체 1위</li>
   <li>🏅 무료 앱 인기차트 전체 2위</li>
 </ul>
-
- <li> <p> <img width = "25" src="https://user-images.githubusercontent.com/60254939/209456906-e6b5ed18-acab-4d2f-8dcc-9f9e319e2f7c.png" align="center"> <a href = "https://apps.apple.com/kr/app/id1660706595">  RaniPaper </a> </p> </li>
+ <li> 
+     <p> 
+       <img width = "25" src="https://user-images.githubusercontent.com/60254939/209456906-e6b5ed18-acab-4d2f-8dcc-9f9e319e2f7c.png" align="center"> 
+          <a href = "https://apps.apple.com/kr/app/id1660706595">  RaniPaper </a> 
+     </p> 
+  </li>
   <ul>
   <li>📒 비챤님 생일 조공 다이어리 앱</li>
   <li>😃 라이프스타일 부문 전체 17위</li>
 </ul>
-  
-   <li> <p> <img width = "25" src="https://github.com/yongbeomkwak/yongbeomkwak/assets/48616183/40c07c39-7a53-4446-8b4c-7c3311562d8f" align="center"> <a href = "https://apps.apple.com/kr/app/id6449212890"> Timerago </a> </p> </li>
+  <li> 
+     <p> 
+       <img width = "25" src="https://github.com/yongbeomkwak/yongbeomkwak/assets/48616183/5d9af23b-6b6c-4b66-b6d8-05f6dadf2a08" align="center"> 
+          <a href = "https://apps.apple.com/kr/app/id6449212890">  Timerago </a> 
+     </p> 
+  </li>
   <ul>
   <li>⏰ 준비 루틴을 도와주는 핸즈프리 시간 리마인더</li>
 </ul>
