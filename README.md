@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=%20iOS%20Developer&fontAlign=50&fontAlignY=40&color=gradient)
 
 
-<p>  <img width height = "150" src ="https://github-readme-stats.vercel.app/api?username=yongbeomkwak&show_icons=true">  <img height = "150" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yongbeomkwak&layout=compact&hide=jupyter%20notebook,roff,C%23,MakeFile,CMake,PHP,JAVA,HTML,CSS,C,SCSS,layout)](https://github.com/anuraghazra/github-readme-stats)">
+<p>  <img width height = "150" src ="https://github-readme-stats.vercel.app/api?username=yongbeomkwak&show_icons=true">    <a href="https://opgc.me/#/users/yongbeomkwak" target="_blank"><img src="https://api.opgc.me/githubs/users/yongbeomkwak/tag/?theme=basic" /></a> </p>
 
 <details>
 <summary> ⚒️ Tech  </summary>
