@@ -32,7 +32,7 @@
 <br>
   
 ### 🏁 Activity
-- [Apple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/en/) 🍎 애플 아카데미 2기 (2023.03~)
+- [Apple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/en/) 🍎 애플 아카데미 2기 (2023.03 ~ 2023.12)
 - [WWDC](https://github.com/wwdc/2023) 🏅 WWDC23 Swift Challenge Winner (2023.05.09)
 - [FOSCAR](https://github.com/young43/ISCC_2021) 🎖️ 2021 KASA 국제 대학생 창작 자동차 경진대회 (FOSCAR) (2022.06 ~ 2022.10)
 - [Rheebros](https://www.rheebros.com/) 🇺🇸 리브로스 IT & Network 인턴 (2020.03 ~ 2021.04)
