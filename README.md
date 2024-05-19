@@ -56,6 +56,7 @@
   <li>🎵 왁타버스 음악 iOS 앱</li>
   <li>🥇 무료 앱 음악부문 전체 1위</li>
   <li>🏅 무료 앱 인기차트 전체 2위</li>
+  <li> <a href = "https://blog.wakmusic.xyz/"> 🌏 개발 블로그 </li>
 </ul>
  <li> 
      <p> 
